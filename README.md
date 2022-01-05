@@ -1,4 +1,4 @@
-## Oi eu sou o John Oliveira, e sou estudante de Sistemas de Informação.
+## Oi eu sou o Jonathan Oliveira, e sou estudante de Sistemas de Informação.
 <div align="center">
   <a href="https://github.com/johnoliveira06">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnoliveira06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
