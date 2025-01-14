@@ -14,13 +14,16 @@
 </h3>
 <br/>
 <p align="center">
-  <img style="width: auto;" src="https://img.shields.io/badge/Python-292e33?style=flat-square&logo=Python&logoColor=fff"> 
-  <img style="width: auto;" src="https://img.shields.io/badge/JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff">
-  <img style="width: auto;" src="https://img.shields.io/badge/Git-292e33?style=flat-square&logo=Git&logoColor=fff">
-  <img style="width: auto;" src="https://img.shields.io/badge/MySQL-292e33?style=flat-square&logo=mysql&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/Linux_Mint-292e33?style=flat-square&logo=linux-mint&logoColor=white"> 
   <br>
-  <img style="width: auto;" src="https://img.shields.io/badge/HTML-292e33?style=flat-square&logo=html5&logoColor=fff">
-  <img style="width: auto;" src="https://img.shields.io/badge/CSS-292e33?&style=flat-square&logo=css3&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/Python-292e33?style=flat-square&logo=Python&logoColor=white"> 
+  <img style="width: auto;" src="https://img.shields.io/badge/Git-292e33?style=flat-square&logo=Git&logoColor=white">
+  <img style="width: auto;" src="https://img.shields.io/badge/MySQL-292e33?style=flat-square&logo=mysql&logoColor=white">
+  <br>
+  <img style="width: auto;" src="https://img.shields.io/badge/HTML-292e33?style=flat-square&logo=html5&logoColor=white">
+  <img style="width: auto;" src="https://img.shields.io/badge/MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=white">
+  <img style="width: auto;" src="https://img.shields.io/badge/Pandas-292e33?style=flat-square&logo=pandas&logoColor=white">
+  <img style="width: auto;" src="https://img.shields.io/badge/Numpy-292e33?style=flat-square&logo=numpy&logoColor=white">
   <img style="width: auto;" src="https://img.shields.io/badge/Colab-292e33?style=flat-square&logo=googlecolab&color=292e33">
 </p>
 
