@@ -19,9 +19,9 @@
   <img style="width: auto;" src="https://img.shields.io/badge/Python-292e33?style=flat-square&logo=Python&logoColor=white"> 
   <img style="width: auto;" src="https://img.shields.io/badge/Git-292e33?style=flat-square&logo=Git&logoColor=white">
   <img style="width: auto;" src="https://img.shields.io/badge/MySQL-292e33?style=flat-square&logo=mysql&logoColor=white">
+  <img style="width: auto;" src="https://img.shields.io/badge/MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=white">
   <br>
   <img style="width: auto;" src="https://img.shields.io/badge/HTML-292e33?style=flat-square&logo=html5&logoColor=white">
-  <img style="width: auto;" src="https://img.shields.io/badge/MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=white">
   <img style="width: auto;" src="https://img.shields.io/badge/Pandas-292e33?style=flat-square&logo=pandas&logoColor=white">
   <img style="width: auto;" src="https://img.shields.io/badge/Numpy-292e33?style=flat-square&logo=numpy&logoColor=white">
   <img style="width: auto;" src="https://img.shields.io/badge/Colab-292e33?style=flat-square&logo=googlecolab&color=292e33">
