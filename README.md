@@ -1,38 +1,49 @@
-<h1 align="center">Olá!</h1>
+<h1 align="center">Olá!<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="45px"/></h1>
 
-<div align="center">
-  <a href="https://github.com/jonoliveiraf">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnoliveira06&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonoliveiraf&layout=compact&langs_count=5&theme=midnight-purple"/>
-</div>
-<br/>
+<p align="center">
+  Sou mestrando na Universidade Estadual do Maranhão (UEMA). Atualmente trabalhando com Processamento de Linguagem Natural aplicado ao domínio jurídico.
+</p>
+
 
 ---
 
-<h3 align="center">
-  Linguagens de programação e tecnologias
-</h3>
+<h3 align="center"> ⌨️ Linguagens e tecnologias</h3>
 <br/>
+
 <p align="center">
-  <img style="width: auto;" src="https://img.shields.io/badge/Linux_Mint-292e33?style=flat-square&logo=linux-mint&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Python-292e33?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-292e33?style=flat-square&logo=pytorch&logoColor=EE4C2C">
+  <img src="https://img.shields.io/badge/Hugging_Face-292e33?style=flat-square&logo=huggingface&logoColor=FFD21E">
+  <img src="https://img.shields.io/badge/scikit--learn-292e33?style=flat-square&logo=scikit-learn&logoColor=F7931E">
   <br>
-  <img style="width: auto;" src="https://img.shields.io/badge/Python-292e33?style=flat-square&logo=Python&logoColor=white"> 
-  <img style="width: auto;" src="https://img.shields.io/badge/Git-292e33?style=flat-square&logo=Git&logoColor=white">
-  <img style="width: auto;" src="https://img.shields.io/badge/MySQL-292e33?style=flat-square&logo=mysql&logoColor=white">
-  <img style="width: auto;" src="https://img.shields.io/badge/MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-292e33?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-292e33?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-292e33?style=flat-square&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Colab-292e33?style=flat-square&logo=googlecolab&color=292e33">
   <br>
-  <img style="width: auto;" src="https://img.shields.io/badge/HTML-292e33?style=flat-square&logo=html5&logoColor=white">
-  <img style="width: auto;" src="https://img.shields.io/badge/Pandas-292e33?style=flat-square&logo=pandas&logoColor=white">
-  <img style="width: auto;" src="https://img.shields.io/badge/Numpy-292e33?style=flat-square&logo=numpy&logoColor=white">
-  <img style="width: auto;" src="https://img.shields.io/badge/Colab-292e33?style=flat-square&logo=googlecolab&color=292e33">
+  <img src="https://img.shields.io/badge/Docker-292e33?style=flat-square&logo=docker&logoColor=2496ED">
+  <img src="https://img.shields.io/badge/Git-292e33?style=flat-square&logo=Git&logoColor=F05032">
+  <img src="https://img.shields.io/badge/LaTeX-292e33?style=flat-square&logo=latex&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-292e33?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=47A248">
 </p>
 
 ---
 
-<h3 align="center">
-  Contato
-</h3>
+<h3 align="center">📊 Estatísticas</h3>
 <br/>
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jonoliveiraf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonoliveiraf&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true"/>
+</div>
+
+---
+
+<h3 align="center">📫 Contato</h3>
+<br/>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/jonathanoliveira06/"><img style="width: 108px;" src="https://img.shields.io/badge/LinkedIn-292e33?style=flat-square&logo=LinkedIn&logoColor=fff"></a>
+  <a href="https://www.linkedin.com/in/jonathanoliveira06/"><img src="https://img.shields.io/badge/LinkedIn-292e33?style=flat-square&logo=LinkedIn&logoColor=0A66C2"></a>
 </p>
