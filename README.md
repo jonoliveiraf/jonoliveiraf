@@ -1,9 +1,8 @@
 <h1 align="center">Olá!<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="45px"/></h1>
 
 <p align="center">
-  Sou mestrando na Universidade Estadual do Maranhão (UEMA). Atualmente trabalhando com Processamento de Linguagem Natural aplicado ao domínio jurídico.
+  Data Scientist • IA • PLN
 </p>
-
 
 ---
 
@@ -21,9 +20,9 @@
   <img src="https://img.shields.io/badge/Matplotlib-292e33?style=flat-square&logo=matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/Colab-292e33?style=flat-square&logo=googlecolab&color=292e33">
   <br>
+  <img src="https://img.shields.io/badge/Linux-292e33?style=flat-square&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-292e33?style=flat-square&logo=docker&logoColor=2496ED">
   <img src="https://img.shields.io/badge/Git-292e33?style=flat-square&logo=Git&logoColor=F05032">
-  <img src="https://img.shields.io/badge/LaTeX-292e33?style=flat-square&logo=latex&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/MySQL-292e33?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=47A248">
@@ -35,8 +34,8 @@
 <br/>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jonoliveiraf&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonoliveiraf&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=jonoliveiraf&rank_icon=github&show_icons=true&include_all_commits=true&theme=calm"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs?username=jonoliveiraf&langs_count=3&theme=calm"/>
 </div>
 
 ---
