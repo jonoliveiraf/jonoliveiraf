@@ -1,7 +1,7 @@
 <h1 align="center">Olá!<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="45px"/></h1>
 
 <p align="center">
-  Data Scientist | MSc in Computer & Systems Engineering
+  Data Scientist | Mestrando em Engenharia da Computação e Sistemas
 </p>
 
 ---
